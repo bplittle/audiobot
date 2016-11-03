@@ -1,7 +1,7 @@
 {
   "name": "bot-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "slack bot that responds with soundcloud links so that they embed in the window",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,21 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "slackbots": "^0.5.3",
-    "sqlite3": "^3.1.8"
+    "slackbots": "^0.5.3"
+  },
+  "bin": {
+    "bot-test": "bot.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bplittle/audiobot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bplittle/audiobot/issues"
+  },
+  "homepage": "https://github.com/bplittle/audiobot#readme",
+  "scripts": {
+    "start": "node bin/bot.js",
   }
 }
