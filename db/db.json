@@ -1,0 +1,640 @@
+{
+  "sounds": ["2chainz-4",
+
+  "2chainz-yeah2",
+
+  "2chainz-tellem",
+
+  "2chainz-tru",
+
+  "2chainz-unh3",
+
+  "2chainz-watchout",
+
+  "2chainz-whistle",
+
+  "2pac-4",
+
+  "2pac-5",
+
+  "2pac-6",
+
+  "21savage-21",
+
+  "50-5",
+
+  "50-8",
+
+  "50-11",
+
+  "50cent-2",
+
+  "action-bronsolino",
+
+  "action-yeah",
+
+  "action-yo",
+
+  "actionbronson-istme",
+
+  "actionbronson-unh",
+
+  "akon-1",
+
+  "beanie-mac",
+
+  "bigboi-1",
+
+  "bigl-3",
+
+  "bigl-4",
+
+  "bigl-5",
+
+  "bigsean-boi2",
+
+  "bigsean-doit",
+
+  "bigsean-holdup2",
+
+  "bigsean-ohgod",
+
+  "bigsean-okay",
+
+  "bigsean-stop",
+
+  "bigsean-whoa",
+
+  "bigsean-whoathere",
+
+  "bigsean-unhunh",
+
+  "birdman-4",
+
+  "birdman-10",
+
+  "birdman-16",
+
+  "birdman-1",
+
+  "birdman-6",
+
+  "birdman-birdman",
+
+  "birdman-nonsense",
+
+  "birdman-respeck",
+
+  "bobby-hahaha",
+
+  "bowwow-yeah",
+
+  "bunb-ugk4life",
+
+  "busta-6",
+
+  "busta-1",
+
+  "busta-2",
+
+  "busta-5",
+
+  "camron-1",
+
+  "camron-2",
+
+  "chance-aghh2",
+
+  "chedda-car4",
+
+  "chedda-ugh",
+
+  "keef-bang",
+
+  "keef-catchup",
+
+  "chingy-1",
+
+  "currensy-1",
+
+  "dabrat-comeon",
+
+  "dabrat-lookout",
+
+  "dabrat-oh",
+
+  "danny-stop",
+
+  "danny-yeah",
+
+  "dannybrown-laugh2",
+
+  "danny-check",
+
+  "davidbanner-5",
+
+  "desiigner-pandapanda",
+
+  "desiigner-rahhh",
+
+  "desiigner-yeha",
+
+  "diddy-1",
+
+  "diddy-3",
+
+  "diddy-4",
+
+  "diddy-5",
+
+  "diddy-6",
+
+  "diddy-7",
+
+  "dizzee-1",
+
+  "djdrama-dramatic",
+
+  "djkhaled-2",
+
+  "djkhaled-3",
+
+  "khaled-blessup2",
+
+  "khaled-majorkey3",
+
+  "khaled-Riel-Life",
+
+  "khaled-theydontwant",
+
+  "khaled-wethebest",
+
+  "khaled-youdontlovemenomo",
+
+  "khaled-anotherone",
+
+  "djmustard-onthebeat",
+
+  "djpaul-2",
+
+  "djpaul-3",
+
+  "djpaul-9",
+
+  "dmx-1",
+
+  "dmx-3",
+
+  "dmx-6",
+
+  "dmx-7",
+
+  "drake-2",
+
+  "drake-3",
+
+  "drake-4",
+
+  "drake-5",
+
+  "drake-goddamngoddamn",
+
+  "drake-worst",
+
+  "drake-yeahyuh3",
+
+  "drummaboy-1",
+
+  "e40-1",
+
+  "e40-2",
+
+  "eazye-1",
+
+  "eminem-3",
+
+  "eminem-4",
+
+  "fatjoe-1",
+
+  "fatjoe-9",
+
+  "fatjoe-5",
+
+  "fetty-1738",
+
+  "fetty-hey2",
+
+  "fetty-yeahbaby",
+
+  "flava-1",
+
+  "foxy-yeah",
+
+  "foxy-unh2",
+
+  "foxy-heyo",
+
+  "freeway-1",
+
+  "french-1",
+
+  "french-haan",
+
+  "future-brrr",
+
+  "future-hendrix",
+
+  "future-hey",
+
+  "future-woo",
+
+  "ghostface-yo",
+
+  "grandmaster-1",
+
+  "gucci-1",
+
+  "gucci-4",
+
+  "gucci-14",
+
+  "gucci-8",
+
+  "gucci-9",
+
+  "hurricanechris-1",
+
+  "icecube-1",
+
+  "inspectahdeck-killahill",
+
+  "jadakiss-3",
+
+  "jarule-1",
+
+  "jarule-2",
+
+  "jayz-7",
+
+  "jayz-9",
+
+  "jayz-1",
+
+  "jayz5",
+
+  "jayz7",
+
+  "jayz8",
+
+  "jayz-itsthero",
+
+  "jayz-itsyoboy",
+
+  "jayz-jiggaman",
+
+  "jayz-woo",
+
+  "jayz-yessir",
+
+  "jayz-young",
+
+  "jazzypha-1",
+
+  "jcole-bitch",
+
+  "jermaine-unh",
+
+  "jones-8",
+
+  "jones-14",
+
+  "juelz-2",
+
+  "juicyj-1",
+
+  "juicyj-8",
+
+  "juicyj-9",
+
+  "juicyj-10",
+
+  "juicyj-7",
+
+  "juicyj-yeahhoe",
+
+  "kanebeatz-inthebuilding",
+
+  "kanye-1",
+
+  "kanye-ouh",
+
+  "kanye-unh",
+
+  "kendrick-biatch3",
+
+  "kendrick-tootoo",
+
+  "killermike-2",
+
+  "killermike-3",
+
+  "krsone-1",
+
+  "lilb-1",
+
+  "lilb-2",
+
+  "liljon-2",
+
+  "liljon-3",
+
+  "liljon-8",
+
+  "liljon-4",
+
+  "lilkim-queenb",
+
+  "lilkim-uhunh",
+
+  "lilscrappy-1",
+
+  "liluzivert-yah2",
+
+  "weezy-14",
+
+  "weezy-22",
+
+  "weezy-29",
+
+  "weezy-4",
+
+  "weezy-16",
+
+  "weezy-17",
+
+  "weezy-25",
+
+  "weezy-30",
+
+  "weezy-31",
+
+  "lilyachty-lilboat",
+
+  "banks-unh",
+
+  "banks-yeah",
+
+  "ludacris-2",
+
+  "ludacris-woo",
+
+  "madeintyo-skrrskrr",
+
+  "mannie-1",
+
+  "mannie-2",
+
+  "mastaace-awwyeah",
+
+  "mceiht-1",
+
+  "mchammer-1",
+
+  "meek-bow",
+
+  "meek-unh",
+
+  "methodman-1",
+
+  "methodman-tical",
+
+  "methodman-yo",
+
+  "metro-somemo",
+
+  "mikejones-2",
+
+  "mikejones-iceage",
+
+  "mikejones-jyeah",
+
+  "mop-1",
+
+  "mop-2",
+
+  "nas-1",
+
+  "nas-3",
+
+  "nas-6",
+
+  "natedogg-1",
+
+  "nicki-augh",
+
+  "nicki-cat",
+
+  "nicki-laugh2",
+
+  "nicki-ok",
+
+  "nicki-unh",
+
+  "nicki-youngmoney",
+
+  "nore-1",
+
+  "biggie-1",
+
+  "biggie-2",
+
+  "oj-4",
+
+  "odb-shimmy",
+
+  "odb-yo",
+
+  "pharrell-1",
+
+  "pharrell-2",
+
+  "pill-1",
+
+  "pimpc-4",
+
+  "pimpc-1",
+
+  "pimpc-sweetjones3",
+
+  "pitbull-1",
+
+  "pitbull-2",
+
+  "pitbull-3",
+
+  "pitbull-6",
+
+  "problem-what2",
+
+  "projectpat-1",
+
+  "pushat-1",
+
+  "pushat-haha",
+
+  "pushat-unh",
+
+  "pushat-haha3",
+
+  "quavo-ayy",
+
+  "quavo-gone2",
+
+  "quavo-ugh",
+
+  "quavo-youngnigga",
+
+  "quavo-migo",
+
+  "raekwon-yo",
+
+  "raesremmurd-hay",
+
+  "redman-heyo",
+
+  "richhomie-hey",
+
+  "richhomie-quan",
+
+  "ross-1",
+
+  "ross-2",
+
+  "ross-4",
+
+  "ross-woo",
+
+  "schoolboy-yawk",
+
+  "seanprice-1",
+
+  "thugga-2",
+
+  "thugga-3",
+
+  "snoop-5",
+
+  "snoop-4",
+
+  "snoop-1",
+
+  "soulja-2",
+
+  "soulja-4",
+
+  "soulja-5",
+
+  "swizz-1",
+
+  "swizz-goddamit",
+
+  "takeoff-ayy",
+
+  "takeoff-bitch",
+
+  "takeoff-graaa",
+
+  "takeoff-lean",
+
+  "takeoff-money",
+
+  "takeoff-takeoff",
+
+  "takeoff-woo",
+
+  "takeoff-woowoo",
+
+  "takeoff-damn",
+
+  "takeoff-ugh",
+
+  "ti-5",
+
+  "ti-2",
+
+  "ti-3",
+
+  "ti-22",
+
+  "ti-32",
+
+  "tooshort-1",
+
+  "tpain-2",
+
+  "tpain1",
+
+  "trapaholics-1",
+
+  "trapaholics-damnson",
+
+  "traviscott-laflame",
+
+  "traviscott-straightup",
+
+  "traviscott-yah",
+
+  "treysongz-4",
+
+  "treysongz-uhunh",
+
+  "trick-1",
+
+  "trick-2",
+
+  "trick-4",
+
+  "tydolla-dollasign",
+
+  "tyga-unh",
+
+  "vado-1",
+
+  "waka-1",
+
+  "waka-8",
+
+  "willsmith-1",
+
+  "willsmith-2",
+
+  "willsmith-3",
+
+  "wiz-1",
+
+  "wiz-unh",
+
+  "yg-skrrt",
+
+  "yogotti-yeah",
+
+  "jeezy-10",
+
+  "jeezy-11",
+
+  "jeezy-1",
+
+  "youngthug-boss",
+
+  "youngthug-ew",
+
+  "youngthug-git",
+
+  "youngthug-ish",
+
+  "youngthug-phoo",
+
+  "youngthug-wha"]
+
+}
